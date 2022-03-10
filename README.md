@@ -16,3 +16,9 @@
 
 # Important
 We must to set size for Views (the both of Percentage or Dp is good)
+
+# Teammate
+@nganphan, @ninhnguyen
+
+# Credit
+@dotrinh MIT
